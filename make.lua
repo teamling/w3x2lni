@@ -207,7 +207,7 @@ lm:build 'install' {
         'lni',
         'ffi',
         'minizip',
-        'copy_vcrt',
+        -- 'copy_vcrt',
     }
 }
 
